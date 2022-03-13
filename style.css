@@ -1,0 +1,33 @@
+body {
+    background-color:peachpuff;
+    font-family: 'Courier New';
+}
+
+
+h1{
+    background-color: fuchsia;
+    color: darkblue;
+
+    text-align:center
+}
+
+h2{
+    background-color: darkblue;
+    color: fuchsia;
+    text-align:center;
+}
+
+h3{
+    background-color: darkblue;
+    color: fuchsia;
+    text-align:center;
+}
+
+i li {
+    font-style: normal;
+}
+
+li{
+    font-style: italic;
+}
+
